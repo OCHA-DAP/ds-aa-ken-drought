@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "src"
+version = "0.0.1"
+description = "Drought AA Trigger for Kenya."
+authors = [
+    {name = "Pauline", email = "pauline.ndirangu@un.org"}
+]
+readme = "README"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.setuptools.package-dir]
+src = "src"
