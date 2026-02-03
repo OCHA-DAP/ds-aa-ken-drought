@@ -1,6 +1,8 @@
 dotenv==0.9.9
 jupyter-black==0.4.0
 matplotlib==3.10.7
+netcdf4==1.7.4 
 ocha_stratus==0.1.6
 seaborn==0.13.2
 sqlalchemy==2.0.44
+xarray==2024.6.0
