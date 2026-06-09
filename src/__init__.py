@@ -5,7 +5,7 @@ This package provides drought analysis and early warning functionality for Kenya
 """
 
 # Import submodules to make them available at package level
-from . import constants
+#from . import constants
 from . import datasources
 from . import utils
 

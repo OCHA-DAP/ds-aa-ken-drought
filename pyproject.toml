@@ -3,13 +3,13 @@ requires = ["setuptools>=64", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "src"
+name = "ken-drought-aa"
 version = "0.0.1"
 description = "Drought AA Trigger for Kenya."
 authors = [
     {name = "Pauline", email = "pauline.ndirangu@un.org"}
 ]
-readme = "README"
+readme = "README.md"
 requires-python = ">=3.8"
 
 [tool.setuptools]
